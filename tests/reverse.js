@@ -1,6 +1,6 @@
 let word="Javascript is a programming language";
 
-let words=word.split(" ");
+
 let result="";
 
 for(let i=words.length-1;i>=0;i--){
